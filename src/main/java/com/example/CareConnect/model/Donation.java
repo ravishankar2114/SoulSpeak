@@ -18,7 +18,7 @@ public class Donation {
 
     private String donorName;
     private String donorEmail;
-    private String type; // gpay_qr | in-kind | money
+    private String type; // gpay | in-kind | money
     private String gpayQrImageUrl;
     private Double amount;
     private LocalDateTime createdAt;
